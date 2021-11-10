@@ -1,4 +1,4 @@
-# test-Traefik
+# Traefik
 
 ```
 cd test3
